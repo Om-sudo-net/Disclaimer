@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disclaimer | MAXPRO CAPITAL</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem 2rem;
+            text-align: center;
+        }
+        main {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 1rem 2rem;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background: #333;
+            color: white;
+            margin-top: 2rem;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Disclaimer</h1>
+        <p>MAXPRO CAPITAL | SEBI Registered</p>
+    </header>
+    <main>
+        <h2>Market Risks Warning</h2>
+        <p>Investments in securities markets are subject to market risks. Please read all related documents carefully before investing.</p>
+
+        <h2>Loss Possibility</h2>
+        <p>Market risks may lead to partial or permanent loss of investments under specific market conditions.</p>
+
+        <h2>Illustrative Purposes Only</h2>
+        <p>Securities mentioned in our communications are for illustrative purposes only and do not constitute investment recommendations.</p>
+
+        <h2>SEBI Registration</h2>
+        <p>Registration with SEBI and NISM certifications do not guarantee the performance of the intermediary or assure returns to investors.</p>
+
+        <h2>Past Performance</h2>
+        <p>Past performance of securities or strategies is not indicative of future results.</p>
+
+        <h2>Educational Purposes Only</h2>
+        <p>Information shared on social media or other platforms is solely for educational purposes and does not constitute investment advice. Always consult your financial advisor before making investment decisions.</p>
+
+        <h2>Fee Payment Mechanism</h2>
+        <p>All payments for research services must be made online to the official <b>MAXPRO CAPITAL</b> bank account. Payments made outside this mechanism are not considered valid under SEBI regulations, and grievances related to such payments will not be entertained by SEBI or its recognized regulatory bodies.</p>
+
+        <h2>No Warranties</h2>
+        <p>The Research Analyst does not guarantee the accuracy, reliability, or results of any content on its website. No warranties of merchantability, suitability, or non-infringement are provided.</p>
+
+        <h2>Caution</h2>
+        <p>We provide research analysis and specific securities recommendations. However, we do not offer portfolio management services, personal account handling, profit-sharing, or risk-profiling-based investment advisory services.</p>
+
+        <h2>Report Unethical Practices</h2>
+        <ul>
+            <li>Email: <a href="mailto:support@maxprocapital.in">support@maxprocapital.in</a></li>
+            <li>SEBI Toll-Free Numbers: 1800 22 7575 / 1800 266 7575</li>
+        </ul>
+
+        <h2>Complaint Redressal</h2>
+        <p>If dissatisfied with our services, kindly raise your complaint to:</p>
+        <ul>
+            <li>Email: <a href="mailto:support@maxprocapital.in">support@maxprocapital.in</a></li>
+            <li>Phone: +91 9423976279</li>
+        </ul>
+        <p>If the issue remains unresolved after 7 days or you are not satisfied with the response, escalate the concern to SEBI via the following channels:</p>
+        <ul>
+            <li><a href="https://scores.gov.in" target="_blank">SEBI SCORES Portal</a></li>
+            <li>Helpline Numbers: 1800 22 7575 / 1800 266 7575</li>
+            <li>Postal Address:  
+                <address>
+                    Securities and Exchange Board of India (SEBI)<br>
+                    SEBI Bhavan, Plot No. C-4 A,<br>
+                    ‘G’ Block, Bandra Kurla Complex,<br>
+                    Bandra (East), Mumbai - 400051
+                </address>
+            </li>
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2024 MAXPRO CAPITAL. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
